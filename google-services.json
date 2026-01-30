@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104632230618",
+    "project_id": "tunisianchatapp",
+    "storage_bucket": "tunisianchatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104632230618:android:f188c76abee212bb863be3",
+        "android_client_info": {
+          "package_name": "com.hamzahadded123.tunisianchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5Q6Kc02iYIUvX0cKGQbDw8DePJjfRzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
